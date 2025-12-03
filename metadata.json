@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Write",
+  "description": "A distraction-free magic writing experience where AI acts as a true thought partner. Draft, iterate, and refine with proactive Gemini intelligence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
